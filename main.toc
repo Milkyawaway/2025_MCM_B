@@ -1,15 +1,33 @@
-\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Problem Background}{1}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Restatement of the Problem}{1}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}Our work}{2}{subsection.1.3}%
-\contentsline {section}{\numberline {2}Assumptions}{2}{section.2}%
-\contentsline {section}{\numberline {3}Notation}{2}{section.3}%
-\contentsline {section}{\numberline {4}Problem 1}{2}{section.4}%
-\contentsline {section}{\numberline {5}Problem 2}{4}{section.5}%
-\contentsline {section}{\numberline {6}Problem 3}{4}{section.6}%
-\contentsline {section}{\numberline {7}Results}{4}{section.7}%
-\contentsline {section}{\numberline {8}Model Evaluation}{4}{section.8}%
-\contentsline {subsection}{\numberline {8.1}Strengths}{4}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2}Weaknesses}{4}{subsection.8.2}%
-\contentsline {section}{References}{4}{Item.4}%
-\contentsline {section}{Appendices}{4}{section*.2}%
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Problem Background}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Restatement of the Problem}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Overview of Our Works}{3}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Assumptions}{3}{section.2}%
+\contentsline {section}{\numberline {3}Notations and Description}{4}{section.3}%
+\contentsline {section}{\numberline {4}Model Preparation}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Data Collection}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Data Cleaning}{5}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Data Standardization}{6}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Multi-objective Optimization Model}{6}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Model Structure}{6}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Building Models for Layer 2 Indicators}{7}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}Environment Status Model}{7}{subsubsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.2}Economic Gain Model}{8}{subsubsection.5.2.2}%
+\contentsline {subsubsection}{\numberline {5.2.3}Satisfaction of Residents Model}{8}{subsubsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.3}Multi-objective Optimization Model}{9}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.1}Optimization problems}{9}{subsubsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5.3.2}Optimization process}{10}{subsubsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.4}Predictions by the model}{11}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Sensitivity Analysis}{11}{subsection.5.5}%
+\contentsline {section}{\numberline {6}Adapting Sustainable Tourism Models to Address Overtourism}{13}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Introduction}{13}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Model Adaptation}{14}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Impact of Location-Specific Factors}{15}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Promoting Balance}{16}{subsection.6.4}%
+\contentsline {section}{\numberline {7}Conclusion}{16}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Summary of Results}{16}{subsection.7.1}%
+\contentsline {section}{\numberline {8}Model Evaluation}{17}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Strengths}{17}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Weaknesses}{17}{subsection.8.2}%
+\contentsline {section}{References}{17}{Item.13}%
+\contentsline {section}{Appendices}{18}{section*.2}%
