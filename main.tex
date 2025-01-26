@@ -7,6 +7,12 @@
 
     % 调整 \item 的间距 
     \usepackage{paralist}
+    \usepackage{enumitem}
+    \usepackage{hyperref}
+    \hypersetup{
+        colorlinks=true,
+        linkcolor=black
+    }
         \let\itemize\compactitem
         \let\enditemize\endcompactitem
         \let\enumerate\compactenum
@@ -101,47 +107,42 @@
         
         \subsection{Restatement of the Problem}
         \hspace*{2em}Juneau is a famous toursism cities with many complexities and risks. Through in-depth analysis and research on the factors of the problem, combined with the specific constraints given, the restate of the objectives can be expressed as follows:
-114514
+
+
+   
+           \textbf{Objective 1:} Analyze the specificities of different areas and formulate specific policies and management strategies tailored to the needs of each area.
+            
+           \textbf{Objective 2:} Develop a comprehensive analytical method to evaluate and rank different policies and strategies, considering the animal-human interactions and economic impacts.
+           
+           \textbf{Objective 3:} Project and assess the long-term ecological and economic situation in the Maasai Mara by utilizing the proposed optimal management strategies.
+           
+           \textbf{Objective 4:} Considering the results obtained above, provide a two-page non-technical report for the Kenya Tourism and Wildlife Commission.
+
+        \subsection{Overview of Our Works}
+        \hspace*{2em} Based on the comprehensive review of the existing reports and data, our work mainly includes the following:
 
             \begin{enumerate}
-                \item  Objective1: 
+                \item  We begin by building a model to evaluate the environmental status and quantify its factors. The environmental status is estimated by the area of one of the most significant ecosystem - glaciers. 
+                \item We develop an assesment model. Take the economic gain as divese factors. Next we introduce a method to re-revaluate the satisfaction of residents as another factor to consider. By computing, we successfully approached (econimicn gain),E(environment status),S(satisfaction index).
+                \item We conduct a multiple-objective-programming analysis, for opitimizing all considerd factors, including neccessary constraints, thus getting a reseanble values that can be optimized for enacting managements.
+                \item We choose Beijing and Vatican as another tourist destinations impacted by  overtourism to adapt our model. We analysised their features, found out the similarities and differences. Based on a sectoral perspective, we used the same model to evaluate the sustainbale toursim condition for the two cities.
                 
-                Develop a comprehensive model to evaluate and optimize tourism management strategies. This model will consider variables such as visitor caps, revenue allocation, environmental preservation, and community well-being. Additionally, it will include a sensitivity analysis to prioritize factors most critical to sustainable tourism.
-
-                1145141919810\\
-                0721072107210721\\
-                if $a>0$, $b>0$, then $a+b>0$.\\
-                $\displaystyle\lim_{n\to\infty}x_n=x$.\\
-
-                \item[(2)] 行间公式
-                if $a>0$, $b>0$, then 
-                    \[
-                    a+b>0.
-                    \]
-                we have a cure matrix:
-                    \[
-                        A_{m\times n}=  
-                        \begin{bmatrix}  
-                          a_{11}& a_{12}& \cdots  & a_{1n} \\  
-                          a_{21}& a_{22}& \cdots  & a_{2n} \\  
-                          \vdots & \vdots & \ddots & \vdots \\  
-                          a_{m1}& a_{m2}& \cdots  & a_{mn}  
-                        \end{bmatrix}  
-                        =\left [ a_{ij}\right ] 
-                    \]
-            \end{enumerate}
-        \subsection{Our work}
-            \begin{enumerate}
-                \item 
             \end{enumerate}
             
 
     \section{Assumptions}
-        \begin{enumerate}
-            \item 
-        \end{enumerate}
-        
 
+                \hspace*{2em}\textbf{Assumption 1: Animals naturally increase at the same rate every year.} \\
+                \hspace*{2em} \(\Rightarrow\) \textbf{Justification:} Though the ecnomic growth of the world happens each year, so is the inflation rate growing at a similar rate. What's more, people tend to make budget and have constant consumption habits.\\
+                
+                \textbf{Assumption2: The tourist council can totally control the number of toursists each year but no more than the highest level.} \\
+                \hspace*{2em} \(\Rightarrow\) \textbf{Justification:} In this model, we assume that there is always overtourism problem, so the officers of the council can limit the numbers of tourists by issuing polices. It is also a fact that in 2020, no more than 100 people travelled at Juneau.\\
+                
+               \textbf{Assumtion3: the ratio  of tourists on a cruise ship to the total number of tourists is nearly constant.} \\
+                \hspace*{2em} \(\Rightarrow\) \textbf{Justification:} In this model, we disregard the fact that this ratio changes since it is relatively uncorrelated to our proect.\\
+                
+                \textbf{Assumption 4: The data collected can be considered reliable and reflect the state of the natural environment.} 
+        \\        \hspace*{2em} \(\Rightarrow\) \textbf{Justification:} we searech for data from reliable resoucres with high accuracy.
     \section{Notation}
         \hspace*{2em}Important notations used in this paper are listed in the table \ref{tab:notations}.
         \vspace{-.5em}
