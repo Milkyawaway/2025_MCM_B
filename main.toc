@@ -11,5 +11,5 @@
 \contentsline {section}{\numberline {8}Model Evaluation}{3}{section.8}%
 \contentsline {subsection}{\numberline {8.1}Strengths}{3}{subsection.8.1}%
 \contentsline {subsection}{\numberline {8.2}Weaknesses}{3}{subsection.8.2}%
-\contentsline {section}{References}{3}{Item.4}%
+\contentsline {section}{References}{3}{Item.3}%
 \contentsline {section}{Appendices}{3}{section*.2}%
