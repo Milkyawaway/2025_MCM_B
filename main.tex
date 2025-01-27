@@ -64,9 +64,6 @@
   
 \begin{document}
     \begin{summary}
-        \begin{align*}
-            \textbf{Summary}
-        \end{align*}
         \hspace*{2em} Juneau, Alaska, as a world-renowned tourist destination, faces significant challenges in balancing its economic dependence on tourism with environmental sustainability and community well-being. With an influx of over 1.6 million cruise ship passengers annually, the city has experienced severe overcrowding, environmental degradation, and strained infrastructure. This paper aims to build a sustainable tourism model to mitigate these issues, optimize resource allocation, and ensure long-term ecological and economic stability.
 
         In this study, we employed a variety of advanced mathematical models and techniques, including \textbf{multi-objective programming}, \textbf{SLSQP optimization algorithm}, and the \textbf{entropy weight method}. Our analysis was informed by a comprehensive review of relevant literature and relied on reliable data sources, ensuring both rigor and credibility. The integration of these methods allowed us to systematically evaluate and address the complexities of sustainable tourism management.
@@ -182,7 +179,7 @@
         \subsection{Data Collection}
         \hspace*{2em}the data in reference is only relevant to cruise, so finding available and reliable data is one of the most important part of the research. Through the analysis of our mathematical model, we collected statistic about the tourism of Juneau, including per tourist consumption , Component analysis of consumption per tourist and other data. In addition, we also collect results of Survey of the Local Population on Tourism and Natural conditions such as local temperature, humidity and data related to glacial melting.
         \begin{table}[htbp]
-            \centering
+
             \caption{Data source collation}
             \vspace{0.5em}
             \begin{tabular}{ccc}
@@ -192,7 +189,7 @@
                 $Tourism Data$        & https://juneau.org    &  Economy                \\ 
                 $Environment Data$        & https://datacommons.org/  & Environment\\ 
                 $Alaska Glacier Data$        & https://www.nps.gov   & Environment\\ 
-                $Beijing tourist income Data$     &https://whlyj.beijing.gov.cn/zwgk/zxgs/tjxx/history/   & Economy\\ 
+                $Beijing tourist income Data$     &https://whlyj.beijing.gov.cn   & Economy\\ 
                 $Beijing AQI Data$     &https://www.aqistudy.cn/historydata/  & Environment\\
                 \bottomrule             % 底部线
             \end{tabular}
@@ -241,7 +238,7 @@
     
     \hspace*{2em} \textbf{Given Objectives 1 and 2}, this paper translates the conflict between \textbf{overtourism} and \textbf{natural preservation} into the optimization of the relationship model, referred to as the \textbf{Tourists-Tax-Environment Model}.
     
-    \textbf{Firstly}, we introduce some intermediate variables for clear explanation. Based on \textbf{Assumption 1}, the total tourism revenue of Juneau (\(I\)) is fully dependent on the number of tourists (\(V\)). \textbf{Furthermore}, to generate additional revenue for city management and to promote sustainable development, the Council of Tourism has enacted measures to levy a tax at a rate of \(\tau\), resulting in additional revenue (\(B\)).
+    \textbf{Firstly}, we introduce some intermediate variables for clear explanation. Based on \textbf{Assumption 1}, the total tourism revenue of Juneau (\(I\)) is fully dependent on the number of tourists (\(V\)). \textbf{Furthermore}, to generate additional revenue for city management and to promote sustainable development, the Council of Tourism has enacted measures to levy a tax at a rate of $r$, resulting in additional revenue (\(B\)).
     
 
     \begin{equation}
@@ -288,7 +285,7 @@ Secondly, consider the expenditures from additional revenue the tourist council 
 
             \subsubsection{Economic Gain Model}
 
-            \hspace*{2em} We propose the following simplified model to estimate the \textbf{economic gain} (\(G\)) by the total number of jobs created for residents. One of our references \cite{Xu} has demonstrated that the economic gain of a city (\(G\)) has a \textbf{linear relationship} with the number of tourists every year (\(V\)).
+            \hspace*{2em} We propose the following simplified model to estimate the \textbf{economic gain} (\(G\)) by the total number of jobs created for residents. One of our references \textsuperscript{\cite{Xu}} has demonstrated that the economic gain of a city (\(G\)) has a \textbf{linear relationship} with the number of tourists every year (\(V\)).
             
 
     \begin{equation}
@@ -315,7 +312,7 @@ S = \alpha bar(E)+\beta bar(G) +\gamma(1-k)B
         \end{aligned}
         \end{equation}
 
-        where $\alpha$, $\beta$, and $\gamma$ are the weights of the three factors, respectively. Their values can be obtained from similar studies\cite{Cottrell}: $\alpha = 0.34$, $\beta = 0.46$, and $\gamma = 0.2$.
+        where $\alpha$, $\beta$, and $\gamma$ are the weights of the three factors, respectively. Their values can be obtained from similar studies\textsuperscript{\cite{Cottrell}}: $\alpha = 0.34$, $\beta = 0.46$, and $\gamma = 0.2$.
 
 
         \begin{figure}[htbp]
@@ -332,7 +329,7 @@ S = \alpha bar(E)+\beta bar(G) +\gamma(1-k)B
             \end{minipage}
         \end{figure}
 
-        Figure 5 shows the components of resident satisfaction, which are the three factors we have discussed above. Figure 6 shows the ratio of the three components obtained from the reference\cite{Cottrell}.
+        Figure 5 shows the components of resident satisfaction, which are the three factors we have discussed above. Figure 6 shows the ratio of the three components obtained from the reference\textsuperscript{\cite{Cottrell}}.
 
         \subsection{Multi-objective Optimization Model}
         \subsubsection{Optimization problems}
@@ -676,6 +673,9 @@ S = \alpha bar(E)+\beta bar(G) +\gamma(1-k)B
                 \hspace*{2em} \textbf{Improvement:} In order to simplify the model, we consider a small number of factors. In fact, it is a better way to seperate different kinds of overtourism cities into different typres, different indices to estimate the environment conditions,to make the model more satisfied with the actual condition.
             \end{enumerate}
 
+            \section{Memo}
+            \includepdf[pages={1}]{memo.pdf}
+
 
     %\label{LastPage2}
     \addcontentsline{toc}{section}{References}
@@ -725,6 +725,6 @@ S = \alpha bar(E)+\beta bar(G) +\gamma(1-k)B
         \end{lstlisting}
 
     \end{appendices}
-    \includepdf[pages={1}]{memo.pdf}
+
 
 \end{document}
