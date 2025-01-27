@@ -615,10 +615,40 @@ S = \alpha bar(E)+\beta bar(G) +\gamma(1-k)B
                 
 \textbf{Therefore}, different strategies are applied for the consideration of variable \(k\): in Juneau, direct protection is emphasized, such as banning littering and limiting the number of whale watchers, and the value of \(k\) should be set relatively high. For Beijing, tax revenue should not be directly invested in environmental protection, and the \(k\) value should be relatively low.
                 
-            \subsection{Promoting Balance}
-            1145141919810
-
-            072107210721
+            \subsection{Promoting Balance for More Generalized Attractions
+            }
+            
+            
+            For tourism cities with fewer tourists, it is more reasonable to consider ignoring the impacts of tourist volume $V$. Additionally, the average consumption can vary from year to year due to global economic prospects, like Macau, with tourist volume rising not obviously 
+            
+            \subsubsection{Environment Status Model}
+            In order to adapt to this kind of tourism cities, we should adjust our models. In the Environment Status Model, it would be more suitable to estimate the environment by measuring the degree of garbage accumulation. And the coefficient should also be recalculated:
+            \begin{equation}
+            	\begin{aligned}
+            		{E_{i+1}} -E_{i} = \mu \frac{I}{1+r} + gkB
+            	\end{aligned}
+            \end{equation}
+            
+            Here the \( g \) should also be considered as a factor that can be optimized rather than a relatively constant coefficient.
+            
+            \subsubsection{Satisfaction Model}
+            In order to adapt our model to evaluate the satisfaction in cities with fewer tourists, we should change our model. Based on current reports, the expenditures local government used showed a stronger impact, but the total revenue is not influential for residential satisfaction degree. So the model should be adapted into:
+            
+           \begin{equation}
+           	\begin{aligned}
+           		S = \bar{\alpha}E+\bar{\gamma}(1-k)B
+           	\end{aligned}
+           \end{equation}
+            
+            And more constraints should also be considered:
+            \begin{equation}
+            	\begin{cases}
+            		\mu + gkr \ge 0 \\
+            		|\frac{s_{i+1}-s_i}{s_i}|\le \Omega
+            	\end{cases}
+            \end{equation}
+            
+            Here $\Omega$ is the boundary of price fluctuations in the range since tourists would not change their consumption habits rapidly.
             \section{Conclusion}
             \subsection{Summary of Results}
 
@@ -658,7 +688,7 @@ S = \alpha bar(E)+\beta bar(G) +\gamma(1-k)B
         \bibitem{zhu}
         Zhu S., Kong X.,:et al. Identification of the human-land relationship involved in the urbanization of rural settlements in Wuhan city circle, China [J]. Journal of Rural Studies.
         \bibitem{Yuan}
-        Yuan G.:The positive interaction between industrial development, people's well-being, and local government governance - a discussion on the value of the happiness index of residents in tourist destinations，[J]. Theory introduction,2012,(09)89-91.
+        Yuan G.:The positive interaction between industrial development, people's well-being,and local government governance - a discussion on the value of the happiness index of residents in tourist destinations,[J]. Theory introduction,2012,(09)89-91.
         
         \bibitem{Thomas}
         Thomas D M., Ciesla A., et al.: A mathematical model of weight change with adaptation, [J]. Mathematical biosciences and engineering: MBE, 2009, 6(4): 873.

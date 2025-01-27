@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.15)  27 JAN 2025 10:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.15)  27 JAN 2025 10:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1093,7 +1093,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [1{c:/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}]
-<figure1.png, id=192, 1204.5pt x 602.25pt>
+<figure1.png, id=202, 1204.5pt x 602.25pt>
 File: figure1.png Graphic file (type png)
 <use figure1.png>
 Package pdftex.def Info: figure1.png  used on input line 103.
@@ -1108,7 +1108,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [2 <./figure1.png>]
-<overview.png, id=200, 1662.21pt x 817.0525pt>
+<overview.png, id=210, 1662.21pt x 817.0525pt>
 File: overview.png Graphic file (type png)
 <use overview.png>
 Package pdftex.def Info: overview.png  used on input line 137.
@@ -1131,7 +1131,7 @@ Overfull \hbox (67.71335pt too wide) in paragraph at lines 188--200
  [][] 
  []
 
-<dataclean.png, id=212, 1927.2pt x 516.93124pt>
+<dataclean.png, id=222, 1927.2pt x 516.93124pt>
 File: dataclean.png Graphic file (type png)
 <use dataclean.png>
 Package pdftex.def Info: dataclean.png  used on input line 205.
@@ -1159,7 +1159,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [5]
-<multiobjective.png, id=233, 1294.8375pt x 726.715pt>
+<multiobjective.png, id=243, 1294.8375pt x 726.715pt>
 File: multiobjective.png Graphic file (type png)
 <use multiobjective.png>
 Package pdftex.def Info: multiobjective.png  used on input line 225.
@@ -1196,12 +1196,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [8]
-<pyramid.png, id=262, 625.33624pt x 406.51875pt>
+<pyramid.png, id=272, 625.33624pt x 406.51875pt>
 File: pyramid.png Graphic file (type png)
 <use pyramid.png>
 Package pdftex.def Info: pyramid.png  used on input line 325.
 (pdftex.def)             Requested size: 203.83417pt x 132.50781pt.
-<circle.png, id=263, 658.46pt x 400.49625pt>
+<circle.png, id=273, 658.46pt x 400.49625pt>
 File: circle.png Graphic file (type png)
 <use circle.png>
 Package pdftex.def Info: circle.png  used on input line 330.
@@ -1225,7 +1225,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [9 <./pyramid.png> <./circle.png (PNG copy)>]
-<cube.png, id=280, 367.1316pt x 304.2567pt>
+<cube.png, id=290, 367.1316pt x 304.2567pt>
 File: cube.png Graphic file (type png)
 <use cube.png>
 Package pdftex.def Info: cube.png  used on input line 379.
@@ -1241,7 +1241,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [10{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./cu
 be.png>]
-<predict.png, id=293, 1003.75pt x 602.25pt>
+<predict.png, id=304, 1003.75pt x 602.25pt>
 File: predict.png Graphic file (type png)
 <use predict.png>
 Package pdftex.def Info: predict.png  used on input line 439.
@@ -1260,7 +1260,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [11]
-<threelines.png, id=306, 1156.32pt x 380.8629pt>
+<threelines.png, id=316, 1156.32pt x 380.8629pt>
 File: threelines.png Graphic file (type png)
 <use threelines.png>
 Package pdftex.def Info: threelines.png  used on input line 500.
@@ -1279,7 +1279,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [12 <./predict.png (PNG copy)>]
-<smog.png, id=313, 1284.8pt x 856.19875pt>
+<smog.png, id=323, 1284.8pt x 856.19875pt>
 File: smog.png Graphic file (type png)
 <use smog.png>
 Package pdftex.def Info: smog.png  used on input line 514.
@@ -1294,7 +1294,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [13 <./threelines.png>]
-<cube2.png, id=322, 370.0224pt x 298.4751pt>
+<cube2.png, id=332, 370.0224pt x 298.4751pt>
 File: cube2.png Graphic file (type png)
 <use cube2.png>
 Package pdftex.def Info: cube2.png  used on input line 550.
@@ -1318,12 +1318,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [15 <./cube2.png>]
-<map1.png, id=342, 1606.0pt x 1102.1175pt>
+<map1.png, id=352, 1606.0pt x 1102.1175pt>
 File: map1.png Graphic file (type png)
 <use map1.png>
 Package pdftex.def Info: map1.png  used on input line 604.
 (pdftex.def)             Requested size: 203.83417pt x 139.86646pt.
-<map2.png, id=343, 925.4575pt x 679.53876pt>
+<map2.png, id=353, 925.4575pt x 679.53876pt>
 File: map2.png Graphic file (type png)
 <use map2.png>
 Package pdftex.def Info: map2.png  used on input line 609.
@@ -1339,20 +1339,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [16 <./map1.png> <./map2.png>]
 
-! LaTeX Error: Unicode character ， (U+FF0C)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.661 ...x of residents in tourist destinations，
-                                                  [J]. Theory introduction,2...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -1361,36 +1347,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [17]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 6
-87.
- (c:/texlive/2024/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-)
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 68
-9.
-
-(c:/texlive/2024/texmf-dist/tex/latex/psnfss/t1pcr.fd
-File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-)
-<memo.pdf, id=362, 597.73312pt x 845.07718pt>
-File: memo.pdf Graphic file (type pdf)
-<use memo.pdf>
-Package pdftex.def Info: memo.pdf  used on input line 698.
-(pdftex.def)             Requested size: 597.73166pt x 845.07512pt.
-File: memo.pdf Graphic file (type pdf)
-<use memo.pdf>
-Package pdftex.def Info: memo.pdf  used on input line 698.
-(pdftex.def)             Requested size: 597.73166pt x 845.07512pt.
-<memo.pdf, id=365, page=1, 597.73312pt x 845.07718pt>
-File: memo.pdf Graphic file (type pdf)
-<use memo.pdf, page 1>
-Package pdftex.def Info: memo.pdf , page1 used on input line 698.
-(pdftex.def)             Requested size: 597.73166pt x 845.07512pt.
-File: memo.pdf Graphic file (type pdf)
-<use memo.pdf, page 1>
-Package pdftex.def Info: memo.pdf , page1 used on input line 698.
-(pdftex.def)             Requested size: 597.75902pt x 845.1138pt.
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1400,19 +1356,58 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [18]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 7
+17.
+ (c:/texlive/2024/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 71
+9.
+
+(c:/texlive/2024/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+<memo.pdf, id=386, 597.73312pt x 845.07718pt>
+File: memo.pdf Graphic file (type pdf)
+<use memo.pdf>
+Package pdftex.def Info: memo.pdf  used on input line 728.
+(pdftex.def)             Requested size: 597.73166pt x 845.07512pt.
+File: memo.pdf Graphic file (type pdf)
+<use memo.pdf>
+Package pdftex.def Info: memo.pdf  used on input line 728.
+(pdftex.def)             Requested size: 597.73166pt x 845.07512pt.
+<memo.pdf, id=389, page=1, 597.73312pt x 845.07718pt>
 File: memo.pdf Graphic file (type pdf)
 <use memo.pdf, page 1>
-Package pdftex.def Info: memo.pdf , page1 used on input line 698.
+Package pdftex.def Info: memo.pdf , page1 used on input line 728.
+(pdftex.def)             Requested size: 597.73166pt x 845.07512pt.
+File: memo.pdf Graphic file (type pdf)
+<use memo.pdf, page 1>
+Package pdftex.def Info: memo.pdf , page1 used on input line 728.
+(pdftex.def)             Requested size: 597.75902pt x 845.1138pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[19]
+File: memo.pdf Graphic file (type pdf)
+<use memo.pdf, page 1>
+Package pdftex.def Info: memo.pdf , page1 used on input line 728.
 (pdftex.def)             Requested size: 597.75902pt x 845.1138pt.
 File: memo.pdf Graphic file (type pdf)
 <use memo.pdf, page 1>
-Package pdftex.def Info: memo.pdf , page1 used on input line 698.
+Package pdftex.def Info: memo.pdf , page1 used on input line 728.
 (pdftex.def)             Requested size: 597.75902pt x 845.1138pt.
 File: memo.pdf Graphic file (type pdf)
 <use memo.pdf, page 1>
-Package pdftex.def Info: memo.pdf , page1 used on input line 698.
+Package pdftex.def Info: memo.pdf , page1 used on input line 728.
 (pdftex.def)             Requested size: 597.75902pt x 845.1138pt.
- [19
+ [20
 
  <./memo.pdf>] 
 enddocument/afterlastpage: lastpage setting LastPage.
@@ -1426,36 +1421,38 @@ L3 programming layer <2024-02-20>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 322B95D17F74BDA3DB9412BD1AB66741;5326.
+(rerunfilecheck)             Checksum: 26C132489AE2CF17B23E1CD4E7973C79;5864.
  ) 
 Here is how much of TeX's memory you used:
- 26877 strings out of 474116
- 480466 string characters out of 5747717
- 1960190 words of memory out of 5000000
- 48572 multiletter control sequences out of 15000+600000
+ 26886 strings out of 474116
+ 480640 string characters out of 5747717
+ 1957190 words of memory out of 5000000
+ 48575 multiletter control sequences out of 15000+600000
  585900 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  90i,17n,99p,789b,1399s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/tex
 live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2024
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2024/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmsy8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/bera/fvsr8a.pfb><c:
-/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2
-024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2024/texmf-
-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2024/texmf-dist/fonts
-/type1/public/cm-super/sfbx2074.pfb><c:/texlive/2024/texmf-dist/fonts/type1/pub
-lic/cm-super/sfbx2488.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-sup
-er/sfrm0800.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm100
-0.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/
-texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb><c:/texlive/20
-24/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb>
-Output written on main.pdf (21 pages, 17371980 bytes).
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2024/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2024/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr6.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
+b><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texl
+ive/2024/texmf-dist/fonts/type1/public/bera/fvsr8a.pfb><c:/texlive/2024/texmf-d
+ist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2024/texmf-dist/fonts/
+type1/public/cm-super/sfbx1440.pfb><c:/texlive/2024/texmf-dist/fonts/type1/publ
+ic/cm-super/sfbx1728.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-supe
+r/sfbx2074.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx2488
+.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/t
+exlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/202
+4/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2024/texmf-di
+st/fonts/type1/public/cm-super/sftt1200.pfb><c:/texlive/2024/texmf-dist/fonts/t
+ype1/urw/courier/ucrr8a.pfb>
+Output written on main.pdf (22 pages, 17392062 bytes).
 PDF statistics:
- 535 PDF objects out of 1000 (max. 8388607)
- 430 compressed objects within 5 object streams
- 116 named destinations out of 1000 (max. 500000)
- 362 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 564 PDF objects out of 1000 (max. 8388607)
+ 454 compressed objects within 5 object streams
+ 122 named destinations out of 1000 (max. 500000)
+ 378 words of extra memory for PDF output out of 10000 (max. 10000000)
 
